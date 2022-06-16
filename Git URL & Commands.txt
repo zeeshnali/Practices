@@ -1,0 +1,13 @@
+First Download and Install Git Client into your machine
+
+https://github.com/zeeshnali/Practices.git
+
+
+GIT BASH COMMANDS
+-------------------------------------------
+Git Help --> its provide frequently used several coomad
+
+git help command-name :-->its opens documentation for partiuclar command
+
+Git Init --> git init commad initilized a folder as git folder
+
