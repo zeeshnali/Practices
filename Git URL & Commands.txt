@@ -1,6 +1,8 @@
 First Download and Install Git Client into your machine
 
 https://github.com/zeeshnali/Practices.git
+Git Ref
+git-cheat-sheet
 
 
 GIT BASH COMMANDS
